@@ -4,7 +4,7 @@ The project demonstrates how to use Spring batch.
 ## Where to start 
 This gradle based project, all you need is to import the project to eclipse.
 
-##Contents of the project
+## Contents of the project
 1- gradle.build which contains the dependency you need to build and run the project
 2- Java source code, which demonstrates how to use spring batch. It reads rows of data from csv file that is availble within the project resources
 then insert them in in-memory database.
